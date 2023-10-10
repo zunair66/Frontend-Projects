@@ -7,7 +7,7 @@ function App() {
   return (
     <>
     <h1>PAGINATION PROJECT</h1>
-      <Card />
+      {/* <Card /> */}
       <Pagination data = {data}/>
     </>
   );
